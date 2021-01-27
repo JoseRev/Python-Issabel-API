@@ -1,0 +1,1387 @@
+{
+  "status": "success",
+  "results": [
+    {
+      "id": "3",
+      "name": "a_RTM_CISCO",
+      "outbound_callerid": "",
+      "music_on_hold_class": "default",
+      "destination_if_congestion": "",
+      "time_group_id": "",
+      "patterns": [
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "14[6-9]X",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "2[0-1]XX",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "2[7-9]XX",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "22[0-8]X",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "229[0-1]",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "229[5-9]",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "23XX",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "24[1-3]X",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "2400",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "244[1-3]",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "244[5-9]",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "25XX",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "26[0-5]X",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "266[0-9]",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "3111",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "3124",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "319[6-7]",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "3273",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "3291",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "3390",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "3439",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "3500",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "5[3-4]XX",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "6[5-7]XX",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "68[2-3]X",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "680[0-3]",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "69XX",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "7XXX",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "8886",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "89[0-5]X",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "89[7-9]X",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "896[1-9]",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "93XX",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "95[0-1]X",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "95[2][0-5]",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "95[3]X",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "95[5-9]X",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "968[8-9]",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "988X",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "989[0-4]",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "989[7-9]",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "999[8-9]",
+          "match_callerid": "",
+          "prepend_digits": ""
+        }
+      ],
+      "trunks": [
+        {
+          "trunk_id": "1",
+          "sequence": "0"
+        },
+        {
+          "trunk_id": "5",
+          "sequence": "1"
+        }
+      ],
+      "call_recording": "",
+      "pinsets_id": "0"
+    },
+    {
+      "id": "2",
+      "name": "a_RTM_SIP_2",
+      "outbound_callerid": "",
+      "music_on_hold_class": "default",
+      "destination_if_congestion": "",
+      "time_group_id": "",
+      "patterns": [
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "10[7-8]X",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "100[0-8]",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "101[3-9]",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "102X",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "103[0-1]",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "103[5-9]",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "104[0-8]",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "105[1-2]",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "105[5-9]",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "106[0-3]",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "106[4-9]",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "109[0-1]",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "109[4-9]",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "110[0-2]",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "110[5-9]",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "110X",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "111[0-1]",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "111[3-5]",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "112[2-9]",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "1180",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "118X",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "1213",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "122[6-9]",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "128X",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "129[2-9]",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "13XX",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "14[0-5]X",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "155[6-8]",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "156[2-3]",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "1614",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "1763",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "2292",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "2293",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "2294",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "24[0-1]X",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "2440",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "2444",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "265[0-1]",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "265[6-9]",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "266X",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "2715",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "3800",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "48[0-5]X",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "49XX",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "50[0-4]X",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "68[4-5]X",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "68[7-9]X",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "680[2-9]",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "681X",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "682X",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "683[0-3]",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "683[8-9]",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "686[0-8]",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "8910",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "8913",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "8914",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "8915",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "892[89]",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "8920",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "8922",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "894X",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "8952",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "8955",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "8962",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "8963",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "8967",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "9606",
+          "match_callerid": "",
+          "prepend_digits": ""
+        }
+      ],
+      "trunks": [
+        {
+          "trunk_id": "3",
+          "sequence": "0"
+        }
+      ],
+      "call_recording": "",
+      "pinsets_id": "0"
+    },
+    {
+      "id": "4",
+      "name": "A_PSTN_LOCAL",
+      "outbound_callerid": "",
+      "music_on_hold_class": "default",
+      "destination_if_congestion": "",
+      "time_group_id": "",
+      "patterns": [
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "06[1-9]XXXXXXXXX",
+          "match_callerid": "",
+          "prepend_digits": ""
+        }
+      ],
+      "trunks": [
+        {
+          "trunk_id": "6",
+          "sequence": "0"
+        }
+      ],
+      "call_recording": "",
+      "pinsets_id": "0"
+    },
+    {
+      "id": "6",
+      "name": "CIA_TRANS",
+      "outbound_callerid": "",
+      "music_on_hold_class": "default",
+      "destination_if_congestion": "",
+      "time_group_id": "",
+      "patterns": [
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "[3-4]XXX",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "26[6-9]X",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "4322",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "5[0-2]XX",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "5[5-9]XX",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "6[0-4]XX",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "8[0-4]XX",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "88XX",
+          "match_callerid": "",
+          "prepend_digits": ""
+        }
+      ],
+      "trunks": [
+        {
+          "trunk_id": "2",
+          "sequence": "0"
+        },
+        {
+          "trunk_id": "4",
+          "sequence": "1"
+        }
+      ],
+      "call_recording": "",
+      "pinsets_id": "0"
+    },
+    {
+      "id": "8",
+      "name": "a_RTM_SIP_3",
+      "outbound_callerid": "",
+      "music_on_hold_class": "default",
+      "destination_if_congestion": "",
+      "time_group_id": "",
+      "patterns": [
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "1009",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "101[0-2]",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "103[2-4]",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "1049",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "105[3-4]",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "1050",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "1064",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "109[2-3]",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "11[3-7]X",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "110[3-4]",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "111[6-9]",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "1112",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "112[0-1]",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "112[8-9]",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "1125",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "118[1-9]",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "119X",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "12[3-7]X",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "120X",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "121[0-2]",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "121[4-9]",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "122[0-5]",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "129[0-1]",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "148[2-5]",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "1480",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "162[2-3]",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "262X",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "265[2-5]",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "306[3-9]",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "3061",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "3070",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "3132",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "3177",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "3227",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "3247",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "325[2-3]",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "3256",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "329[2-5]",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "331[2-3]",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "3330",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "3369",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "3371",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "3373",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "3419",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "3422",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "3437",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "3484",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "3490",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "3499",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "3512",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "3518",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "3536",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "3542",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "3551",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "3564",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "3567",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "3609",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "3636",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "3682",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "3693",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "3732",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "3739",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "3752",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "3779",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "3836",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "3896",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "518[4-9]",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "519[0-1]",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "522[6-8]",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "5224",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "523[0-1]",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "5235",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "524[1-3]",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "79XX",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "806[5-9]",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "807[0-2]",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "807[7-8]",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "8075",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "8094",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "8096",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "810[2-9]",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "8110",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "814[3-5]",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "8141",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "8147",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "8190",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "8193",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "8307",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "8310",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "836[3-5]",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "8384",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "8394",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "8829",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "884[0-5]",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "8909",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "90[0-3]X",
+          "match_callerid": "",
+          "prepend_digits": ""
+        }
+      ],
+      "trunks": [
+        {
+          "trunk_id": "7",
+          "sequence": "0"
+        }
+      ],
+      "call_recording": "",
+      "pinsets_id": "0"
+    }
+  ]
+}

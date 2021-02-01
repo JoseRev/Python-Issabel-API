@@ -1,0 +1,3553 @@
+{
+  "status": "success",
+  "results": [
+    {
+      "id": "173",
+      "name": "CJ_MORELIA",
+      "outbound_callerid": "",
+      "music_on_hold_class": "default",
+      "destination_if_congestion": "",
+      "time_group_id": "0",
+      "patterns": [
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "1051",
+          "match_callerid": "",
+          "prepend_digits": ""
+        }
+      ],
+      "trunks": [
+        {
+          "trunk_id": "90",
+          "sequence": "0"
+        }
+      ],
+      "call_recording": "",
+      "pinsets_id": "0"
+    },
+    {
+      "id": "172",
+      "name": "CJ_VRM_13ZM",
+      "outbound_callerid": "",
+      "music_on_hold_class": "default",
+      "destination_if_congestion": "",
+      "time_group_id": "0",
+      "patterns": [
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "1029",
+          "match_callerid": "",
+          "prepend_digits": ""
+        }
+      ],
+      "trunks": [
+        {
+          "trunk_id": "89",
+          "sequence": "0"
+        }
+      ],
+      "call_recording": "",
+      "pinsets_id": "0"
+    },
+    {
+      "id": "171",
+      "name": "A_ESC_MIL_SGTOS",
+      "outbound_callerid": "",
+      "music_on_hold_class": "default",
+      "destination_if_congestion": "",
+      "time_group_id": "0",
+      "patterns": [
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "101[8-9]",
+          "match_callerid": "",
+          "prepend_digits": ""
+        }
+      ],
+      "trunks": [
+        {
+          "trunk_id": "88",
+          "sequence": "0"
+        }
+      ],
+      "call_recording": "",
+      "pinsets_id": "0"
+    },
+    {
+      "id": "170",
+      "name": "CENDI_4",
+      "outbound_callerid": "",
+      "music_on_hold_class": "default",
+      "destination_if_congestion": "",
+      "time_group_id": "0",
+      "patterns": [
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "2365",
+          "match_callerid": "",
+          "prepend_digits": ""
+        }
+      ],
+      "trunks": [
+        {
+          "trunk_id": "87",
+          "sequence": "0"
+        }
+      ],
+      "call_recording": "",
+      "pinsets_id": "0"
+    },
+    {
+      "id": "169",
+      "name": "JEFATURAS_VIII_RM",
+      "outbound_callerid": "",
+      "music_on_hold_class": "default",
+      "destination_if_congestion": "",
+      "time_group_id": "0",
+      "patterns": [
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "110[7-8]",
+          "match_callerid": "",
+          "prepend_digits": ""
+        }
+      ],
+      "trunks": [
+        {
+          "trunk_id": "83",
+          "sequence": "0"
+        }
+      ],
+      "call_recording": "",
+      "pinsets_id": "0"
+    },
+    {
+      "id": "168",
+      "name": "CENDI_3",
+      "outbound_callerid": "",
+      "music_on_hold_class": "default",
+      "destination_if_congestion": "",
+      "time_group_id": "0",
+      "patterns": [
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "2715",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "8953",
+          "match_callerid": "",
+          "prepend_digits": ""
+        }
+      ],
+      "trunks": [
+        {
+          "trunk_id": "84",
+          "sequence": "0"
+        }
+      ],
+      "call_recording": "",
+      "pinsets_id": "0"
+    },
+    {
+      "id": "167",
+      "name": "108BI",
+      "outbound_callerid": "",
+      "music_on_hold_class": "default",
+      "destination_if_congestion": "",
+      "time_group_id": "0",
+      "patterns": [
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "958[3-5]",
+          "match_callerid": "",
+          "prepend_digits": ""
+        }
+      ],
+      "trunks": [
+        {
+          "trunk_id": "69",
+          "sequence": "0"
+        }
+      ],
+      "call_recording": "",
+      "pinsets_id": "0"
+    },
+    {
+      "id": "166",
+      "name": "101_BI",
+      "outbound_callerid": "",
+      "music_on_hold_class": "default",
+      "destination_if_congestion": "",
+      "time_group_id": "0",
+      "patterns": [
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "112[2-4]",
+          "match_callerid": "",
+          "prepend_digits": ""
+        }
+      ],
+      "trunks": [
+        {
+          "trunk_id": "30",
+          "sequence": "0"
+        }
+      ],
+      "call_recording": "",
+      "pinsets_id": "0"
+    },
+    {
+      "id": "165",
+      "name": "CMG_STA_GERT",
+      "outbound_callerid": "",
+      "music_on_hold_class": "default",
+      "destination_if_congestion": "",
+      "time_group_id": "0",
+      "patterns": [
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "112[6-7]",
+          "match_callerid": "",
+          "prepend_digits": ""
+        }
+      ],
+      "trunks": [
+        {
+          "trunk_id": "74",
+          "sequence": "0"
+        }
+      ],
+      "call_recording": "",
+      "pinsets_id": "0"
+    },
+    {
+      "id": "164",
+      "name": "12RCM_PIED_NEG",
+      "outbound_callerid": "",
+      "music_on_hold_class": "default",
+      "destination_if_congestion": "",
+      "time_group_id": "0",
+      "patterns": [
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "129[2-4]",
+          "match_callerid": "",
+          "prepend_digits": ""
+        }
+      ],
+      "trunks": [
+        {
+          "trunk_id": "72",
+          "sequence": "0"
+        }
+      ],
+      "call_recording": "",
+      "pinsets_id": "0"
+    },
+    {
+      "id": "163",
+      "name": "HMR_VII_RM",
+      "outbound_callerid": "",
+      "music_on_hold_class": "default",
+      "destination_if_congestion": "",
+      "time_group_id": "0",
+      "patterns": [
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "264[4-5]",
+          "match_callerid": "",
+          "prepend_digits": ""
+        }
+      ],
+      "trunks": [
+        {
+          "trunk_id": "7",
+          "sequence": "0"
+        }
+      ],
+      "call_recording": "",
+      "pinsets_id": "0"
+    },
+    {
+      "id": "162",
+      "name": "A_HMR_MAZATLAN",
+      "outbound_callerid": "",
+      "music_on_hold_class": "default",
+      "destination_if_congestion": "",
+      "time_group_id": "0",
+      "patterns": [
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "259[6-9]",
+          "match_callerid": "",
+          "prepend_digits": ""
+        }
+      ],
+      "trunks": [
+        {
+          "trunk_id": "71",
+          "sequence": "0"
+        }
+      ],
+      "call_recording": "",
+      "pinsets_id": "0"
+    },
+    {
+      "id": "161",
+      "name": "CG_27ZM",
+      "outbound_callerid": "",
+      "music_on_hold_class": "default",
+      "destination_if_congestion": "",
+      "time_group_id": "0",
+      "patterns": [
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "222[4-7]",
+          "match_callerid": "",
+          "prepend_digits": ""
+        }
+      ],
+      "trunks": [
+        {
+          "trunk_id": "79",
+          "sequence": "0"
+        }
+      ],
+      "call_recording": "",
+      "pinsets_id": "0"
+    },
+    {
+      "id": "160",
+      "name": "HOSP_35_ZM",
+      "outbound_callerid": "",
+      "music_on_hold_class": "default",
+      "destination_if_congestion": "",
+      "time_group_id": "0",
+      "patterns": [
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "110[0-1]",
+          "match_callerid": "",
+          "prepend_digits": ""
+        }
+      ],
+      "trunks": [
+        {
+          "trunk_id": "76",
+          "sequence": "0"
+        }
+      ],
+      "call_recording": "",
+      "pinsets_id": "0"
+    },
+    {
+      "id": "159",
+      "name": "HMR_X_RM",
+      "outbound_callerid": "",
+      "music_on_hold_class": "default",
+      "destination_if_congestion": "",
+      "time_group_id": "0",
+      "patterns": [
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "264[0-2]",
+          "match_callerid": "",
+          "prepend_digits": ""
+        }
+      ],
+      "trunks": [
+        {
+          "trunk_id": "16",
+          "sequence": "0"
+        }
+      ],
+      "call_recording": "",
+      "pinsets_id": "0"
+    },
+    {
+      "id": "158",
+      "name": "GM_PIEDRASN",
+      "outbound_callerid": "",
+      "music_on_hold_class": "default",
+      "destination_if_congestion": "",
+      "time_group_id": "0",
+      "patterns": [
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "110[5-6]",
+          "match_callerid": "",
+          "prepend_digits": ""
+        }
+      ],
+      "trunks": [
+        {
+          "trunk_id": "70",
+          "sequence": "0"
+        }
+      ],
+      "call_recording": "",
+      "pinsets_id": "0"
+    },
+    {
+      "id": "157",
+      "name": "CJ_IXTEPEC",
+      "outbound_callerid": "",
+      "music_on_hold_class": "default",
+      "destination_if_congestion": "",
+      "time_group_id": "0",
+      "patterns": [
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "1042",
+          "match_callerid": "",
+          "prepend_digits": ""
+        }
+      ],
+      "trunks": [
+        {
+          "trunk_id": "86",
+          "sequence": "0"
+        }
+      ],
+      "call_recording": "",
+      "pinsets_id": "0"
+    },
+    {
+      "id": "156",
+      "name": "79_BI_TECALITLAN",
+      "outbound_callerid": "",
+      "music_on_hold_class": "default",
+      "destination_if_congestion": "",
+      "time_group_id": "0",
+      "patterns": [
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "111[3-5]",
+          "match_callerid": "",
+          "prepend_digits": ""
+        }
+      ],
+      "trunks": [
+        {
+          "trunk_id": "98",
+          "sequence": "0"
+        }
+      ],
+      "call_recording": "",
+      "pinsets_id": "0"
+    },
+    {
+      "id": "155",
+      "name": "46_ZM",
+      "outbound_callerid": "",
+      "music_on_hold_class": "default",
+      "destination_if_congestion": "",
+      "time_group_id": "0",
+      "patterns": [
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "2549",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "255[0-2]",
+          "match_callerid": "",
+          "prepend_digits": ""
+        }
+      ],
+      "trunks": [
+        {
+          "trunk_id": "85",
+          "sequence": "0"
+        }
+      ],
+      "call_recording": "",
+      "pinsets_id": "0"
+    },
+    {
+      "id": "154",
+      "name": "7_ZM",
+      "outbound_callerid": "",
+      "music_on_hold_class": "default",
+      "destination_if_congestion": "",
+      "time_group_id": "0",
+      "patterns": [
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "214[4-7]",
+          "match_callerid": "",
+          "prepend_digits": ""
+        }
+      ],
+      "trunks": [
+        {
+          "trunk_id": "67",
+          "sequence": "0"
+        }
+      ],
+      "call_recording": "",
+      "pinsets_id": "0"
+    },
+    {
+      "id": "153",
+      "name": "6_BgdaPM",
+      "outbound_callerid": "",
+      "music_on_hold_class": "default",
+      "destination_if_congestion": "",
+      "time_group_id": "0",
+      "patterns": [
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "1143",
+          "match_callerid": "",
+          "prepend_digits": ""
+        }
+      ],
+      "trunks": [
+        {
+          "trunk_id": "18",
+          "sequence": "0"
+        }
+      ],
+      "call_recording": "",
+      "pinsets_id": "0"
+    },
+    {
+      "id": "152",
+      "name": "4_BGDA_PM",
+      "outbound_callerid": "",
+      "music_on_hold_class": "default",
+      "destination_if_congestion": "",
+      "time_group_id": "0",
+      "patterns": [
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "109[8-9]",
+          "match_callerid": "",
+          "prepend_digits": ""
+        }
+      ],
+      "trunks": [
+        {
+          "trunk_id": "62",
+          "sequence": "0"
+        }
+      ],
+      "call_recording": "",
+      "pinsets_id": "0"
+    },
+    {
+      "id": "151",
+      "name": "82BI_Y_GM_LAZAR_C",
+      "outbound_callerid": "",
+      "music_on_hold_class": "default",
+      "destination_if_congestion": "",
+      "time_group_id": "0",
+      "patterns": [
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "108[6-9]",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "1090",
+          "match_callerid": "",
+          "prepend_digits": ""
+        }
+      ],
+      "trunks": [
+        {
+          "trunk_id": "60",
+          "sequence": "0"
+        }
+      ],
+      "call_recording": "",
+      "pinsets_id": "0"
+    },
+    {
+      "id": "150",
+      "name": "BAM_18",
+      "outbound_callerid": "",
+      "music_on_hold_class": "default",
+      "destination_if_congestion": "",
+      "time_group_id": "0",
+      "patterns": [
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "103[0-1]",
+          "match_callerid": "",
+          "prepend_digits": ""
+        }
+      ],
+      "trunks": [
+        {
+          "trunk_id": "55",
+          "sequence": "0"
+        }
+      ],
+      "call_recording": "",
+      "pinsets_id": "0"
+    },
+    {
+      "id": "149",
+      "name": "TRONCALIZADO",
+      "outbound_callerid": "",
+      "music_on_hold_class": "default",
+      "destination_if_congestion": "",
+      "time_group_id": "0",
+      "patterns": [
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "8959",
+          "match_callerid": "",
+          "prepend_digits": ""
+        }
+      ],
+      "trunks": [
+        {
+          "trunk_id": "52",
+          "sequence": "0"
+        }
+      ],
+      "call_recording": "",
+      "pinsets_id": "0"
+    },
+    {
+      "id": "148",
+      "name": "JFRAS_III_RM",
+      "outbound_callerid": "",
+      "music_on_hold_class": "default",
+      "destination_if_congestion": "",
+      "time_group_id": "0",
+      "patterns": [
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "1091",
+          "match_callerid": "",
+          "prepend_digits": ""
+        }
+      ],
+      "trunks": [
+        {
+          "trunk_id": "59",
+          "sequence": "0"
+        }
+      ],
+      "call_recording": "",
+      "pinsets_id": "0"
+    },
+    {
+      "id": "147",
+      "name": "A_CIATRANS",
+      "outbound_callerid": "",
+      "music_on_hold_class": "default",
+      "destination_if_congestion": "",
+      "time_group_id": "0",
+      "patterns": [
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "26[7-9]X",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "3XXX",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "4035",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "4XXX",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "5[0-2]XX",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "5[5-9]XX",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "6[0-4]XX",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "8[0-4]XX",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "8854",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "88XX",
+          "match_callerid": "",
+          "prepend_digits": ""
+        }
+      ],
+      "trunks": [
+        {
+          "trunk_id": "57",
+          "sequence": "0"
+        },
+        {
+          "trunk_id": "58",
+          "sequence": "1"
+        }
+      ],
+      "call_recording": "",
+      "pinsets_id": "0"
+    },
+    {
+      "id": "146",
+      "name": "70BI_XICOTEPEC",
+      "outbound_callerid": "",
+      "music_on_hold_class": "default",
+      "destination_if_congestion": "",
+      "time_group_id": "0",
+      "patterns": [
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "1085",
+          "match_callerid": "",
+          "prepend_digits": ""
+        }
+      ],
+      "trunks": [
+        {
+          "trunk_id": "54",
+          "sequence": "0"
+        }
+      ],
+      "call_recording": "",
+      "pinsets_id": "0"
+    },
+    {
+      "id": "145",
+      "name": "BAM_11_EMATFA",
+      "outbound_callerid": "",
+      "music_on_hold_class": "default",
+      "destination_if_congestion": "",
+      "time_group_id": "0",
+      "patterns": [
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "1084",
+          "match_callerid": "",
+          "prepend_digits": ""
+        }
+      ],
+      "trunks": [
+        {
+          "trunk_id": "53",
+          "sequence": "0"
+        }
+      ],
+      "call_recording": "",
+      "pinsets_id": "0"
+    },
+    {
+      "id": "144",
+      "name": "4oELN_MNTO_IRM",
+      "outbound_callerid": "",
+      "music_on_hold_class": "default",
+      "destination_if_congestion": "",
+      "time_group_id": "0",
+      "patterns": [
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "1076",
+          "match_callerid": "",
+          "prepend_digits": ""
+        }
+      ],
+      "trunks": [
+        {
+          "trunk_id": "51",
+          "sequence": "0"
+        }
+      ],
+      "call_recording": "",
+      "pinsets_id": "0"
+    },
+    {
+      "id": "143",
+      "name": "CJR_GN_JUAREZ",
+      "outbound_callerid": "",
+      "music_on_hold_class": "default",
+      "destination_if_congestion": "",
+      "time_group_id": "0",
+      "patterns": [
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "1081",
+          "match_callerid": "",
+          "prepend_digits": ""
+        }
+      ],
+      "trunks": [
+        {
+          "trunk_id": "56",
+          "sequence": "0"
+        }
+      ],
+      "call_recording": "",
+      "pinsets_id": "0"
+    },
+    {
+      "id": "142",
+      "name": "CJR_XRM",
+      "outbound_callerid": "",
+      "music_on_hold_class": "default",
+      "destination_if_congestion": "",
+      "time_group_id": "0",
+      "patterns": [
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "1083",
+          "match_callerid": "",
+          "prepend_digits": ""
+        }
+      ],
+      "trunks": [
+        {
+          "trunk_id": "49",
+          "sequence": "0"
+        }
+      ],
+      "call_recording": "",
+      "pinsets_id": "0"
+    },
+    {
+      "id": "141",
+      "name": "CJE_XII_RM_MPLS",
+      "outbound_callerid": "",
+      "music_on_hold_class": "default",
+      "destination_if_congestion": "",
+      "time_group_id": "0",
+      "patterns": [
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "1070",
+          "match_callerid": "",
+          "prepend_digits": ""
+        }
+      ],
+      "trunks": [
+        {
+          "trunk_id": "22",
+          "sequence": "0"
+        }
+      ],
+      "call_recording": "",
+      "pinsets_id": "0"
+    },
+    {
+      "id": "140",
+      "name": "CJE_VI_RM_MPLS",
+      "outbound_callerid": "",
+      "music_on_hold_class": "default",
+      "destination_if_congestion": "",
+      "time_group_id": "0",
+      "patterns": [
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "1071",
+          "match_callerid": "",
+          "prepend_digits": ""
+        }
+      ],
+      "trunks": [
+        {
+          "trunk_id": "48",
+          "sequence": "0"
+        }
+      ],
+      "call_recording": "",
+      "pinsets_id": "0"
+    },
+    {
+      "id": "139",
+      "name": "CJE_I_RM_2_BPM",
+      "outbound_callerid": "",
+      "music_on_hold_class": "default",
+      "destination_if_congestion": "",
+      "time_group_id": "0",
+      "patterns": [
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "1078",
+          "match_callerid": "",
+          "prepend_digits": ""
+        }
+      ],
+      "trunks": [
+        {
+          "trunk_id": "47",
+          "sequence": "0"
+        }
+      ],
+      "call_recording": "",
+      "pinsets_id": "0"
+    },
+    {
+      "id": "138",
+      "name": "CJR_4a_ZM",
+      "outbound_callerid": "",
+      "music_on_hold_class": "default",
+      "destination_if_congestion": "",
+      "time_group_id": "0",
+      "patterns": [
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "1073",
+          "match_callerid": "",
+          "prepend_digits": ""
+        }
+      ],
+      "trunks": [
+        {
+          "trunk_id": "46",
+          "sequence": "0"
+        }
+      ],
+      "call_recording": "",
+      "pinsets_id": "0"
+    },
+    {
+      "id": "137",
+      "name": "CJR_VIRM_6RBR",
+      "outbound_callerid": "",
+      "music_on_hold_class": "default",
+      "destination_if_congestion": "",
+      "time_group_id": "0",
+      "patterns": [
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "1072",
+          "match_callerid": "",
+          "prepend_digits": ""
+        }
+      ],
+      "trunks": [
+        {
+          "trunk_id": "27",
+          "sequence": "0"
+        }
+      ],
+      "call_recording": "",
+      "pinsets_id": "0"
+    },
+    {
+      "id": "136",
+      "name": "CJR_I_RM",
+      "outbound_callerid": "",
+      "music_on_hold_class": "default",
+      "destination_if_congestion": "",
+      "time_group_id": "0",
+      "patterns": [
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "1075",
+          "match_callerid": "",
+          "prepend_digits": ""
+        }
+      ],
+      "trunks": [
+        {
+          "trunk_id": "44",
+          "sequence": "0"
+        }
+      ],
+      "call_recording": "",
+      "pinsets_id": "0"
+    },
+    {
+      "id": "135",
+      "name": "CJR_VIII_RM",
+      "outbound_callerid": "",
+      "music_on_hold_class": "default",
+      "destination_if_congestion": "",
+      "time_group_id": "0",
+      "patterns": [
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "1074",
+          "match_callerid": "",
+          "prepend_digits": ""
+        }
+      ],
+      "trunks": [
+        {
+          "trunk_id": "43",
+          "sequence": "0"
+        }
+      ],
+      "call_recording": "",
+      "pinsets_id": "0"
+    },
+    {
+      "id": "134",
+      "name": "CJR_5ZM",
+      "outbound_callerid": "",
+      "music_on_hold_class": "default",
+      "destination_if_congestion": "",
+      "time_group_id": "0",
+      "patterns": [
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "1077",
+          "match_callerid": "",
+          "prepend_digits": ""
+        }
+      ],
+      "trunks": [
+        {
+          "trunk_id": "42",
+          "sequence": "0"
+        }
+      ],
+      "call_recording": "",
+      "pinsets_id": "0"
+    },
+    {
+      "id": "133",
+      "name": "CJR_3a_ZM",
+      "outbound_callerid": "",
+      "music_on_hold_class": "default",
+      "destination_if_congestion": "",
+      "time_group_id": "0",
+      "patterns": [
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "1068",
+          "match_callerid": "",
+          "prepend_digits": ""
+        }
+      ],
+      "trunks": [
+        {
+          "trunk_id": "41",
+          "sequence": "0"
+        }
+      ],
+      "call_recording": "",
+      "pinsets_id": "0"
+    },
+    {
+      "id": "132",
+      "name": "HOSP_CTRL_CISCO",
+      "outbound_callerid": "",
+      "music_on_hold_class": "default",
+      "destination_if_congestion": "",
+      "time_group_id": "0",
+      "patterns": [
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "2660",
+          "match_callerid": "",
+          "prepend_digits": ""
+        }
+      ],
+      "trunks": [
+        {
+          "trunk_id": "1",
+          "sequence": "0"
+        },
+        {
+          "trunk_id": "3",
+          "sequence": "1"
+        }
+      ],
+      "call_recording": "",
+      "pinsets_id": "0"
+    },
+    {
+      "id": "131",
+      "name": "CJR_8ZM",
+      "outbound_callerid": "",
+      "music_on_hold_class": "default",
+      "destination_if_congestion": "",
+      "time_group_id": "0",
+      "patterns": [
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "1066",
+          "match_callerid": "",
+          "prepend_digits": ""
+        }
+      ],
+      "trunks": [
+        {
+          "trunk_id": "39",
+          "sequence": "0"
+        }
+      ],
+      "call_recording": "",
+      "pinsets_id": "0"
+    },
+    {
+      "id": "130",
+      "name": "CG_43ZM",
+      "outbound_callerid": "",
+      "music_on_hold_class": "default",
+      "destination_if_congestion": "",
+      "time_group_id": "0",
+      "patterns": [
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "1614",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "1741",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "1763",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "228[8-9]",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "229[01]",
+          "match_callerid": "",
+          "prepend_digits": ""
+        }
+      ],
+      "trunks": [
+        {
+          "trunk_id": "38",
+          "sequence": "0"
+        }
+      ],
+      "call_recording": "",
+      "pinsets_id": "0"
+    },
+    {
+      "id": "129",
+      "name": "CJE_XIRM",
+      "outbound_callerid": "",
+      "music_on_hold_class": "default",
+      "destination_if_congestion": "",
+      "time_group_id": "0",
+      "patterns": [
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "1065",
+          "match_callerid": "",
+          "prepend_digits": ""
+        }
+      ],
+      "trunks": [
+        {
+          "trunk_id": "37",
+          "sequence": "0"
+        }
+      ],
+      "call_recording": "",
+      "pinsets_id": "0"
+    },
+    {
+      "id": "128",
+      "name": "JEFATURAS_XIIRM",
+      "outbound_callerid": "",
+      "music_on_hold_class": "default",
+      "destination_if_congestion": "",
+      "time_group_id": "0",
+      "patterns": [
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "109[4-5]",
+          "match_callerid": "",
+          "prepend_digits": ""
+        }
+      ],
+      "trunks": [
+        {
+          "trunk_id": "66",
+          "sequence": "0"
+        }
+      ],
+      "call_recording": "",
+      "pinsets_id": "0"
+    },
+    {
+      "id": "127",
+      "name": "CJR_IXRM",
+      "outbound_callerid": "",
+      "music_on_hold_class": "default",
+      "destination_if_congestion": "",
+      "time_group_id": "0",
+      "patterns": [
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "1063",
+          "match_callerid": "",
+          "prepend_digits": ""
+        }
+      ],
+      "trunks": [
+        {
+          "trunk_id": "34",
+          "sequence": "0"
+        }
+      ],
+      "call_recording": "",
+      "pinsets_id": "0"
+    },
+    {
+      "id": "126",
+      "name": "CJR_42ZM",
+      "outbound_callerid": "",
+      "music_on_hold_class": "default",
+      "destination_if_congestion": "",
+      "time_group_id": "0",
+      "patterns": [
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "1062",
+          "match_callerid": "",
+          "prepend_digits": ""
+        }
+      ],
+      "trunks": [
+        {
+          "trunk_id": "35",
+          "sequence": "0"
+        }
+      ],
+      "call_recording": "",
+      "pinsets_id": "0"
+    },
+    {
+      "id": "125",
+      "name": "CJR_10ZM",
+      "outbound_callerid": "",
+      "music_on_hold_class": "default",
+      "destination_if_congestion": "",
+      "time_group_id": "0",
+      "patterns": [
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "1060",
+          "match_callerid": "",
+          "prepend_digits": ""
+        }
+      ],
+      "trunks": [
+        {
+          "trunk_id": "33",
+          "sequence": "0"
+        }
+      ],
+      "call_recording": "",
+      "pinsets_id": "0"
+    },
+    {
+      "id": "124",
+      "name": "EMTEFA",
+      "outbound_callerid": "",
+      "music_on_hold_class": "default",
+      "destination_if_congestion": "",
+      "time_group_id": "0",
+      "patterns": [
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "1059",
+          "match_callerid": "",
+          "prepend_digits": ""
+        }
+      ],
+      "trunks": [
+        {
+          "trunk_id": "61",
+          "sequence": "0"
+        }
+      ],
+      "call_recording": "",
+      "pinsets_id": "0"
+    },
+    {
+      "id": "123",
+      "name": "3a_CINE",
+      "outbound_callerid": "",
+      "music_on_hold_class": "default",
+      "destination_if_congestion": "",
+      "time_group_id": "0",
+      "patterns": [
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "960[6-7]",
+          "match_callerid": "",
+          "prepend_digits": ""
+        }
+      ],
+      "trunks": [
+        {
+          "trunk_id": "29",
+          "sequence": "0"
+        }
+      ],
+      "call_recording": "",
+      "pinsets_id": "0"
+    },
+    {
+      "id": "122",
+      "name": "UMCE_TAPACHULA",
+      "outbound_callerid": "",
+      "music_on_hold_class": "default",
+      "destination_if_congestion": "",
+      "time_group_id": "0",
+      "patterns": [
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "1056",
+          "match_callerid": "",
+          "prepend_digits": ""
+        }
+      ],
+      "trunks": [
+        {
+          "trunk_id": "45",
+          "sequence": "0"
+        }
+      ],
+      "call_recording": "",
+      "pinsets_id": "0"
+    },
+    {
+      "id": "121",
+      "name": "UMCE_PINOTEPA",
+      "outbound_callerid": "",
+      "music_on_hold_class": "default",
+      "destination_if_congestion": "",
+      "time_group_id": "0",
+      "patterns": [
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "1055",
+          "match_callerid": "",
+          "prepend_digits": ""
+        }
+      ],
+      "trunks": [
+        {
+          "trunk_id": "26",
+          "sequence": "0"
+        }
+      ],
+      "call_recording": "",
+      "pinsets_id": "0"
+    },
+    {
+      "id": "120",
+      "name": "CJR_V_RM_11_ZM",
+      "outbound_callerid": "",
+      "music_on_hold_class": "default",
+      "destination_if_congestion": "",
+      "time_group_id": "0",
+      "patterns": [
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "1079",
+          "match_callerid": "",
+          "prepend_digits": ""
+        }
+      ],
+      "trunks": [
+        {
+          "trunk_id": "5",
+          "sequence": "0"
+        }
+      ],
+      "call_recording": "",
+      "pinsets_id": "0"
+    },
+    {
+      "id": "119",
+      "name": "CJE_VRM_SEII",
+      "outbound_callerid": "",
+      "music_on_hold_class": "default",
+      "destination_if_congestion": "",
+      "time_group_id": "0",
+      "patterns": [
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "1080",
+          "match_callerid": "",
+          "prepend_digits": ""
+        }
+      ],
+      "trunks": [
+        {
+          "trunk_id": "8",
+          "sequence": "0"
+        }
+      ],
+      "call_recording": "",
+      "pinsets_id": "0"
+    },
+    {
+      "id": "118",
+      "name": "2a_BPM",
+      "outbound_callerid": "",
+      "music_on_hold_class": "default",
+      "destination_if_congestion": "",
+      "time_group_id": "0",
+      "patterns": [
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "104[6-8]",
+          "match_callerid": "",
+          "prepend_digits": ""
+        }
+      ],
+      "trunks": [
+        {
+          "trunk_id": "23",
+          "sequence": "0"
+        }
+      ],
+      "call_recording": "",
+      "pinsets_id": "0"
+    },
+    {
+      "id": "117",
+      "name": "GAIN",
+      "outbound_callerid": "",
+      "music_on_hold_class": "default",
+      "destination_if_congestion": "",
+      "time_group_id": "0",
+      "patterns": [
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "801[1-4]",
+          "match_callerid": "",
+          "prepend_digits": ""
+        }
+      ],
+      "trunks": [
+        {
+          "trunk_id": "21",
+          "sequence": "0"
+        }
+      ],
+      "call_recording": "",
+      "pinsets_id": "0"
+    },
+    {
+      "id": "116",
+      "name": "HOSP_25ZM",
+      "outbound_callerid": "",
+      "music_on_hold_class": "default",
+      "destination_if_congestion": "",
+      "time_group_id": "0",
+      "patterns": [
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "1039",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "104[0-1]",
+          "match_callerid": "",
+          "prepend_digits": ""
+        }
+      ],
+      "trunks": [
+        {
+          "trunk_id": "31",
+          "sequence": "0"
+        }
+      ],
+      "call_recording": "",
+      "pinsets_id": "0"
+    },
+    {
+      "id": "115",
+      "name": "UETA",
+      "outbound_callerid": "",
+      "music_on_hold_class": "default",
+      "destination_if_congestion": "",
+      "time_group_id": "0",
+      "patterns": [
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "103[5-8]",
+          "match_callerid": "",
+          "prepend_digits": ""
+        }
+      ],
+      "trunks": [
+        {
+          "trunk_id": "19",
+          "sequence": "0"
+        }
+      ],
+      "call_recording": "",
+      "pinsets_id": "0"
+    },
+    {
+      "id": "114",
+      "name": "CENDI_6",
+      "outbound_callerid": "",
+      "music_on_hold_class": "default",
+      "destination_if_congestion": "",
+      "time_group_id": "0",
+      "patterns": [
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "104[3-5]",
+          "match_callerid": "",
+          "prepend_digits": ""
+        }
+      ],
+      "trunks": [
+        {
+          "trunk_id": "65",
+          "sequence": "0"
+        }
+      ],
+      "call_recording": "",
+      "pinsets_id": "0"
+    },
+    {
+      "id": "113",
+      "name": "HOSP_34ZM",
+      "outbound_callerid": "SIP_34ZM",
+      "music_on_hold_class": "default",
+      "destination_if_congestion": "",
+      "time_group_id": "0",
+      "patterns": [
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "102[0-2]",
+          "match_callerid": "",
+          "prepend_digits": ""
+        }
+      ],
+      "trunks": [
+        {
+          "trunk_id": "17",
+          "sequence": "0"
+        }
+      ],
+      "call_recording": "",
+      "pinsets_id": "0"
+    },
+    {
+      "id": "112",
+      "name": "HOSP_24_ZM",
+      "outbound_callerid": "",
+      "music_on_hold_class": "default",
+      "destination_if_congestion": "",
+      "time_group_id": "0",
+      "patterns": [
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "101[3-6]",
+          "match_callerid": "",
+          "prepend_digits": ""
+        }
+      ],
+      "trunks": [
+        {
+          "trunk_id": "13",
+          "sequence": "0"
+        }
+      ],
+      "call_recording": "",
+      "pinsets_id": "0"
+    },
+    {
+      "id": "111",
+      "name": "HMZ_SMJ",
+      "outbound_callerid": "",
+      "music_on_hold_class": "default",
+      "destination_if_congestion": "",
+      "time_group_id": "0",
+      "patterns": [
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "1017",
+          "match_callerid": "",
+          "prepend_digits": ""
+        }
+      ],
+      "trunks": [
+        {
+          "trunk_id": "15",
+          "sequence": "0"
+        }
+      ],
+      "call_recording": "",
+      "pinsets_id": "0"
+    },
+    {
+      "id": "110",
+      "name": "HMR_XIIRM",
+      "outbound_callerid": "",
+      "music_on_hold_class": "default",
+      "destination_if_congestion": "",
+      "time_group_id": "0",
+      "patterns": [
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "100[2-4]",
+          "match_callerid": "",
+          "prepend_digits": ""
+        }
+      ],
+      "trunks": [
+        {
+          "trunk_id": "6",
+          "sequence": "0"
+        }
+      ],
+      "call_recording": "",
+      "pinsets_id": "0"
+    },
+    {
+      "id": "109",
+      "name": "HMR_IV_RM",
+      "outbound_callerid": "",
+      "music_on_hold_class": "default",
+      "destination_if_congestion": "",
+      "time_group_id": "0",
+      "patterns": [
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "1096",
+          "match_callerid": "",
+          "prepend_digits": ""
+        }
+      ],
+      "trunks": [
+        {
+          "trunk_id": "68",
+          "sequence": "0"
+        }
+      ],
+      "call_recording": "",
+      "pinsets_id": "0"
+    },
+    {
+      "id": "108",
+      "name": "PSTN",
+      "outbound_callerid": "",
+      "music_on_hold_class": "default",
+      "destination_if_congestion": "",
+      "time_group_id": "0",
+      "patterns": [
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "06[1-9]XXXXXXXXX",
+          "match_callerid": "",
+          "prepend_digits": ""
+        }
+      ],
+      "trunks": [
+        {
+          "trunk_id": "50",
+          "sequence": "0"
+        }
+      ],
+      "call_recording": "",
+      "pinsets_id": "0"
+    },
+    {
+      "id": "107",
+      "name": "DN14",
+      "outbound_callerid": "SIP_DN14",
+      "music_on_hold_class": "default",
+      "destination_if_congestion": "",
+      "time_group_id": "0",
+      "patterns": [
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "93XX",
+          "match_callerid": "",
+          "prepend_digits": ""
+        }
+      ],
+      "trunks": [
+        {
+          "trunk_id": "2",
+          "sequence": "0"
+        }
+      ],
+      "call_recording": "",
+      "pinsets_id": "0"
+    },
+    {
+      "id": "106",
+      "name": "SIP_5",
+      "outbound_callerid": "",
+      "music_on_hold_class": "default",
+      "destination_if_congestion": "",
+      "time_group_id": "0",
+      "patterns": [
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "1[5-9]XX",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "6932",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "7996",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "9[6-9]XX",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "90[4-9]X",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "94XX",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "954X",
+          "match_callerid": "",
+          "prepend_digits": ""
+        }
+      ],
+      "trunks": [
+        {
+          "trunk_id": "10",
+          "sequence": "0"
+        }
+      ],
+      "call_recording": "",
+      "pinsets_id": "0"
+    },
+    {
+      "id": "105",
+      "name": "RTM_CISCO",
+      "outbound_callerid": "",
+      "music_on_hold_class": "default",
+      "destination_if_congestion": "",
+      "time_group_id": "0",
+      "patterns": [
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "14[6-9]X",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "2[0-1]XX",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "2[8-9]XX",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "22[0-8]X",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "229[0-1]",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "229[5-9]",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "23XX",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "24[1-3]X",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "240[1-9]",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "244[1-3]",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "244[5-9]",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "246[7-9]",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "2470",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "25XX",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "26[0-3]X",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "265X",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "266[1-9]",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "2660",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "27[1-9]X",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "270[4-9]",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "3124",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "3519",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "3XXX",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "5[3-4]XX",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "6[5-7]XX",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "68[0-3]X",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "69XX",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "701[0-4]",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "701[8-9]",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "89XX",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "95[0-3]X",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "95[5-9]X",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "968[8-9]",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "988X",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "989[0-4]",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "989[12]",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "989[7-9]",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "999[8-9]",
+          "match_callerid": "",
+          "prepend_digits": ""
+        }
+      ],
+      "trunks": [
+        {
+          "trunk_id": "1",
+          "sequence": "0"
+        },
+        {
+          "trunk_id": "3",
+          "sequence": "1"
+        }
+      ],
+      "call_recording": "",
+      "pinsets_id": "0"
+    },
+    {
+      "id": "104",
+      "name": "44_Z_M",
+      "outbound_callerid": "",
+      "music_on_hold_class": "default",
+      "destination_if_congestion": "",
+      "time_group_id": "0",
+      "patterns": [
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "229[2-4]",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "2444",
+          "match_callerid": "",
+          "prepend_digits": ""
+        }
+      ],
+      "trunks": [
+        {
+          "trunk_id": "64",
+          "sequence": "0"
+        }
+      ],
+      "call_recording": "",
+      "pinsets_id": "0"
+    },
+    {
+      "id": "103",
+      "name": "RASE",
+      "outbound_callerid": "",
+      "music_on_hold_class": "default",
+      "destination_if_congestion": "",
+      "time_group_id": "0",
+      "patterns": [
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "102[7-8]",
+          "match_callerid": "",
+          "prepend_digits": ""
+        }
+      ],
+      "trunks": [
+        {
+          "trunk_id": "14",
+          "sequence": "0"
+        }
+      ],
+      "call_recording": "",
+      "pinsets_id": "0"
+    },
+    {
+      "id": "102",
+      "name": "ESC_SUP_GRRA",
+      "outbound_callerid": "",
+      "music_on_hold_class": "default",
+      "destination_if_congestion": "",
+      "time_group_id": "0",
+      "patterns": [
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "100[5-8]",
+          "match_callerid": "",
+          "prepend_digits": ""
+        }
+      ],
+      "trunks": [
+        {
+          "trunk_id": "12",
+          "sequence": "0"
+        }
+      ],
+      "call_recording": "",
+      "pinsets_id": "0"
+    },
+    {
+      "id": "101",
+      "name": "7_BIC",
+      "outbound_callerid": "",
+      "music_on_hold_class": "default",
+      "destination_if_congestion": "",
+      "time_group_id": "0",
+      "patterns": [
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "102[4-6]",
+          "match_callerid": "",
+          "prepend_digits": ""
+        }
+      ],
+      "trunks": [
+        {
+          "trunk_id": "11",
+          "sequence": "0"
+        }
+      ],
+      "call_recording": "",
+      "pinsets_id": "0"
+    },
+    {
+      "id": "174",
+      "name": "CJR_VICTORIA",
+      "outbound_callerid": "",
+      "music_on_hold_class": "default",
+      "destination_if_congestion": "",
+      "time_group_id": "0",
+      "patterns": [
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "1061",
+          "match_callerid": "",
+          "prepend_digits": ""
+        }
+      ],
+      "trunks": [
+        {
+          "trunk_id": "91",
+          "sequence": "0"
+        }
+      ],
+      "call_recording": "",
+      "pinsets_id": "0"
+    },
+    {
+      "id": "175",
+      "name": "CJ_CULIACAN",
+      "outbound_callerid": "",
+      "music_on_hold_class": "default",
+      "destination_if_congestion": "",
+      "time_group_id": "0",
+      "patterns": [
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "1069",
+          "match_callerid": "",
+          "prepend_digits": ""
+        }
+      ],
+      "trunks": [
+        {
+          "trunk_id": "92",
+          "sequence": "0"
+        }
+      ],
+      "call_recording": "",
+      "pinsets_id": "0"
+    },
+    {
+      "id": "176",
+      "name": "A_CJR_19ZM",
+      "outbound_callerid": "",
+      "music_on_hold_class": "default",
+      "destination_if_congestion": "",
+      "time_group_id": "0",
+      "patterns": [
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "1097",
+          "match_callerid": "",
+          "prepend_digits": ""
+        }
+      ],
+      "trunks": [
+        {
+          "trunk_id": "93",
+          "sequence": "0"
+        }
+      ],
+      "call_recording": "",
+      "pinsets_id": "0"
+    },
+    {
+      "id": "177",
+      "name": "cj_33_ZONA_M",
+      "outbound_callerid": "",
+      "music_on_hold_class": "default",
+      "destination_if_congestion": "",
+      "time_group_id": "0",
+      "patterns": [
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "1111",
+          "match_callerid": "",
+          "prepend_digits": ""
+        }
+      ],
+      "trunks": [
+        {
+          "trunk_id": "94",
+          "sequence": "0"
+        }
+      ],
+      "call_recording": "",
+      "pinsets_id": "0"
+    },
+    {
+      "id": "178",
+      "name": "CJM_IX_RM_CHILPA",
+      "outbound_callerid": "",
+      "music_on_hold_class": "default",
+      "destination_if_congestion": "",
+      "time_group_id": "0",
+      "patterns": [
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "1102",
+          "match_callerid": "",
+          "prepend_digits": ""
+        }
+      ],
+      "trunks": [
+        {
+          "trunk_id": "95",
+          "sequence": "0"
+        }
+      ],
+      "call_recording": "",
+      "pinsets_id": "0"
+    },
+    {
+      "id": "179",
+      "name": "CALL_ME_VILLAH",
+      "outbound_callerid": "",
+      "music_on_hold_class": "default",
+      "destination_if_congestion": "",
+      "time_group_id": "0",
+      "patterns": [
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "1109",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "1110",
+          "match_callerid": "",
+          "prepend_digits": ""
+        }
+      ],
+      "trunks": [
+        {
+          "trunk_id": "96",
+          "sequence": "0"
+        }
+      ],
+      "call_recording": "",
+      "pinsets_id": "0"
+    },
+    {
+      "id": "180",
+      "name": "SIP3",
+      "outbound_callerid": "",
+      "music_on_hold_class": "default",
+      "destination_if_congestion": "",
+      "time_group_id": "0",
+      "patterns": [
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "1009",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "101[0-2]",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "103[2-4]",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "1049",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "105[3-4]",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "1050",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "1064",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "109[2-3]",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "11[3-7]X",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "110[3-4]",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "111[6-9]",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "1112",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "112[0-1]",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "112[8-9]",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "1125",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "118X",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "119X",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "12[2-7][0-7]",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "12[3-7]X",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "120X",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "121[0-2]",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "121[4-9]",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "122[0-5]",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "129[01]",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "148[2-5]",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "1480",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "162[2-3]",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "262X",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "265X",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "306[3-9]",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "3061",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "3070",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "3132",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "3177",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "3227",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "3247",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "325[2-3]",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "3256",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "329[2-5]",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "331[2-3]",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "3330",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "3369",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "3371",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "3373",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "3419",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "3422",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "3437",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "3484",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "3490",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "3499",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "3512",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "3518",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "3536",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "3542",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "3551",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "3564",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "3567",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "3609",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "3636",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "3682",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "3693",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "3732",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "3739",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "3752",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "3779",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "3836",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "3896",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "518[4-9]",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "519[0-1]",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "521[8-9]",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "522[6-8]",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "523[0-1]",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "5235",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "524[1-3]",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "5248",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "806[5-9]",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "807[0-2]",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "807[7-8]",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "8075",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "809[1-2]",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "809[8-9]",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "8094",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "8096",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "810[2-9]",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "8110",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "814[3-5]",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "8141",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "8147",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "8190",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "8193",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "8307",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "8310",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "836[3-5]",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "8384",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "8394",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "8829",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "884[0-5]",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "8960",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "90[0-3]X",
+          "match_callerid": "",
+          "prepend_digits": ""
+        }
+      ],
+      "trunks": [
+        {
+          "trunk_id": "82",
+          "sequence": "0"
+        }
+      ],
+      "call_recording": "",
+      "pinsets_id": "0"
+    },
+    {
+      "id": "181",
+      "name": "MEXSAT_DIAL_PLAN",
+      "outbound_callerid": "",
+      "music_on_hold_class": "default",
+      "destination_if_congestion": "",
+      "time_group_id": "0",
+      "patterns": [
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "07XXXXX",
+          "match_callerid": "",
+          "prepend_digits": ""
+        }
+      ],
+      "trunks": [
+        {
+          "trunk_id": "1",
+          "sequence": "0"
+        },
+        {
+          "trunk_id": "3",
+          "sequence": "1"
+        }
+      ],
+      "call_recording": "",
+      "pinsets_id": "0"
+    },
+    {
+      "id": "182",
+      "name": "EMAAYS",
+      "outbound_callerid": "",
+      "music_on_hold_class": "default",
+      "destination_if_congestion": "",
+      "time_group_id": "0",
+      "patterns": [
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "2379",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "238[0-2]",
+          "match_callerid": "",
+          "prepend_digits": ""
+        }
+      ],
+      "trunks": [
+        {
+          "trunk_id": "101",
+          "sequence": "0"
+        }
+      ],
+      "call_recording": "",
+      "pinsets_id": "0"
+    },
+    {
+      "id": "183",
+      "name": "CME_JUZG_IIRM",
+      "outbound_callerid": "",
+      "music_on_hold_class": "default",
+      "destination_if_congestion": "",
+      "time_group_id": "0",
+      "patterns": [
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "955[7-9]",
+          "match_callerid": "",
+          "prepend_digits": ""
+        }
+      ],
+      "trunks": [
+        {
+          "trunk_id": "102",
+          "sequence": "0"
+        }
+      ],
+      "call_recording": "",
+      "pinsets_id": "0"
+    },
+    {
+      "id": "184",
+      "name": "HMR_TORREON",
+      "outbound_callerid": "",
+      "music_on_hold_class": "default",
+      "destination_if_congestion": "",
+      "time_group_id": "0",
+      "patterns": [
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "233[0-1]",
+          "match_callerid": "",
+          "prepend_digits": ""
+        }
+      ],
+      "trunks": [
+        {
+          "trunk_id": "100",
+          "sequence": "0"
+        }
+      ],
+      "call_recording": "",
+      "pinsets_id": "0"
+    },
+    {
+      "id": "185",
+      "name": "HMR_VIRM_TUXPAN",
+      "outbound_callerid": "",
+      "music_on_hold_class": "default",
+      "destination_if_congestion": "",
+      "time_group_id": "0",
+      "patterns": [
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "1556",
+          "match_callerid": "",
+          "prepend_digits": ""
+        }
+      ],
+      "trunks": [
+        {
+          "trunk_id": "20",
+          "sequence": "0"
+        }
+      ],
+      "call_recording": "",
+      "pinsets_id": "0"
+    },
+    {
+      "id": "186",
+      "name": "5BIC",
+      "outbound_callerid": "",
+      "music_on_hold_class": "default",
+      "destination_if_congestion": "",
+      "time_group_id": "0",
+      "patterns": [
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "156[2-3]",
+          "match_callerid": "",
+          "prepend_digits": ""
+        }
+      ],
+      "trunks": [
+        {
+          "trunk_id": "97",
+          "sequence": "0"
+        }
+      ],
+      "call_recording": "",
+      "pinsets_id": "0"
+    },
+    {
+      "id": "187",
+      "name": "CENDI_8_APODACA",
+      "outbound_callerid": "",
+      "music_on_hold_class": "default",
+      "destination_if_congestion": "",
+      "time_group_id": "0",
+      "patterns": [
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "155[7-8]",
+          "match_callerid": "",
+          "prepend_digits": ""
+        }
+      ],
+      "trunks": [
+        {
+          "trunk_id": "104",
+          "sequence": "0"
+        }
+      ],
+      "call_recording": "",
+      "pinsets_id": "0"
+    },
+    {
+      "id": "188",
+      "name": "HMEMN",
+      "outbound_callerid": "",
+      "music_on_hold_class": "default",
+      "destination_if_congestion": "",
+      "time_group_id": "0",
+      "patterns": [
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "2646",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "267[0-9]",
+          "match_callerid": "",
+          "prepend_digits": ""
+        }
+      ],
+      "trunks": [
+        {
+          "trunk_id": "36",
+          "sequence": "0"
+        }
+      ],
+      "call_recording": "",
+      "pinsets_id": "0"
+    },
+    {
+      "id": "189",
+      "name": "CMI",
+      "outbound_callerid": "",
+      "music_on_hold_class": "default",
+      "destination_if_congestion": "",
+      "time_group_id": "0",
+      "patterns": [
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "24[0-1]X",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "2400",
+          "match_callerid": "",
+          "prepend_digits": ""
+        }
+      ],
+      "trunks": [
+        {
+          "trunk_id": "105",
+          "sequence": "0"
+        }
+      ],
+      "call_recording": "",
+      "pinsets_id": "0"
+    },
+    {
+      "id": "190",
+      "name": "CIAM",
+      "outbound_callerid": "",
+      "music_on_hold_class": "default",
+      "destination_if_congestion": "",
+      "time_group_id": "0",
+      "patterns": [
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "1023",
+          "match_callerid": "",
+          "prepend_digits": ""
+        }
+      ],
+      "trunks": [
+        {
+          "trunk_id": "9",
+          "sequence": "0"
+        }
+      ],
+      "call_recording": "",
+      "pinsets_id": "0"
+    },
+    {
+      "id": "191",
+      "name": "JFA_SVS_IV_RM",
+      "outbound_callerid": "",
+      "music_on_hold_class": "default",
+      "destination_if_congestion": "",
+      "time_group_id": "0",
+      "patterns": [
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "2088",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "2089",
+          "match_callerid": "",
+          "prepend_digits": ""
+        }
+      ],
+      "trunks": [
+        {
+          "trunk_id": "73",
+          "sequence": "0"
+        }
+      ],
+      "call_recording": "",
+      "pinsets_id": "0"
+    },
+    {
+      "id": "192",
+      "name": "CRI",
+      "outbound_callerid": "",
+      "music_on_hold_class": "default",
+      "destination_if_congestion": "",
+      "time_group_id": "0",
+      "patterns": [
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "2700",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "2703",
+          "match_callerid": "",
+          "prepend_digits": ""
+        }
+      ],
+      "trunks": [
+        {
+          "trunk_id": "107",
+          "sequence": "0"
+        }
+      ],
+      "call_recording": "",
+      "pinsets_id": "0"
+    },
+    {
+      "id": "193",
+      "name": "HMZ_1A",
+      "outbound_callerid": "",
+      "music_on_hold_class": "default",
+      "destination_if_congestion": "",
+      "time_group_id": "0",
+      "patterns": [
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "2701",
+          "match_callerid": "",
+          "prepend_digits": ""
+        }
+      ],
+      "trunks": [
+        {
+          "trunk_id": "109",
+          "sequence": "0"
+        }
+      ],
+      "call_recording": "",
+      "pinsets_id": "0"
+    },
+    {
+      "id": "194",
+      "name": "BLT_CIA_MANTO",
+      "outbound_callerid": "",
+      "music_on_hold_class": "default",
+      "destination_if_congestion": "",
+      "time_group_id": "0",
+      "patterns": [
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "1082",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "6747",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "675[4-5]",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "6751",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "6757",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "676[45]",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "6762",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "6767",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "6775",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "6780",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "8909",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "8918",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "8937",
+          "match_callerid": "",
+          "prepend_digits": ""
+        }
+      ],
+      "trunks": [
+        {
+          "trunk_id": "25",
+          "sequence": "0"
+        }
+      ],
+      "call_recording": "",
+      "pinsets_id": "0"
+    },
+    {
+      "id": "195",
+      "name": "CPO_FZAS_ESP",
+      "outbound_callerid": "",
+      "music_on_hold_class": "default",
+      "destination_if_congestion": "",
+      "time_group_id": "0",
+      "patterns": [
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "1052",
+          "match_callerid": "",
+          "prepend_digits": ""
+        }
+      ],
+      "trunks": [
+        {
+          "trunk_id": "40",
+          "sequence": "0"
+        }
+      ],
+      "call_recording": "",
+      "pinsets_id": "0"
+    },
+    {
+      "id": "196",
+      "name": "UMCE_8ZM",
+      "outbound_callerid": "",
+      "music_on_hold_class": "default",
+      "destination_if_congestion": "",
+      "time_group_id": "0",
+      "patterns": [
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "1057",
+          "match_callerid": "",
+          "prepend_digits": ""
+        }
+      ],
+      "trunks": [
+        {
+          "trunk_id": "24",
+          "sequence": "0"
+        }
+      ],
+      "call_recording": "",
+      "pinsets_id": "0"
+    },
+    {
+      "id": "197",
+      "name": "HOSP_CTRL_MIL",
+      "outbound_callerid": "",
+      "music_on_hold_class": "default",
+      "destination_if_congestion": "",
+      "time_group_id": "0",
+      "patterns": [
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "3111",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "3121",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "3124",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "3196",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "3197",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "3239",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "3273",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "3291",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "3390",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "3439",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "3464",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "3466",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "3500",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "3516",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "3733",
+          "match_callerid": "",
+          "prepend_digits": ""
+        },
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "3735",
+          "match_callerid": "",
+          "prepend_digits": ""
+        }
+      ],
+      "trunks": [
+        {
+          "trunk_id": "1",
+          "sequence": "0"
+        },
+        {
+          "trunk_id": "3",
+          "sequence": "1"
+        }
+      ],
+      "call_recording": "",
+      "pinsets_id": "0"
+    },
+    {
+      "id": "198",
+      "name": "UMCE_40ZM",
+      "outbound_callerid": "",
+      "music_on_hold_class": "default",
+      "destination_if_congestion": "",
+      "time_group_id": "0",
+      "patterns": [
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "1058",
+          "match_callerid": "",
+          "prepend_digits": ""
+        }
+      ],
+      "trunks": [
+        {
+          "trunk_id": "28",
+          "sequence": "0"
+        }
+      ],
+      "call_recording": "",
+      "pinsets_id": "0"
+    },
+    {
+      "id": "199",
+      "name": "GN_TORRE_PEDREGAL",
+      "outbound_callerid": "",
+      "music_on_hold_class": "default",
+      "destination_if_congestion": "",
+      "time_group_id": "0",
+      "patterns": [
+        {
+          "match_pattern_prefix": "",
+          "match_pattern_pass": "131[2-6]",
+          "match_callerid": "",
+          "prepend_digits": ""
+        }
+      ],
+      "trunks": [
+        {
+          "trunk_id": "106",
+          "sequence": "0"
+        }
+      ],
+      "call_recording": "",
+      "pinsets_id": "0"
+    }
+  ]
+}
